@@ -1,0 +1,8 @@
+{
+  "name": "Cal State LA EcoCAR",
+  "description": "Cal State LA EcoCAR is building an electrified 2026 Jeep Cherokee for the EcoCAR Innovation Challenge.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
